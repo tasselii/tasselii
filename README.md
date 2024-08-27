@@ -11,26 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF "target=_blank")](https://www.linkedin.com/in/thiago-tasseli-368590276/)
 
 
-<h3 align="left">Minha Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasselii&theme=github_dark)
 
+<br>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasselii/tasselii/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasselii/tasselii/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tasselii/tasselii/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasselii&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tasselii&theme=github_dark)
 
-<div>
-  <a href="github.com/tasselii">
-    <img height="160"em src="https://github-readme-stats.vercel.app/api?username=tasselii&theme=transparent&show_icons=true"/>
-    <img height="160"em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasselii&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-      </div>
