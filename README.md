@@ -10,11 +10,10 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000CD&color:FFF "target=_blank")](mailto:tasselii.dev@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF "target=_blank")](https://www.linkedin.com/in/thiago-tasseli-368590276/)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasselii&theme=github_dark)
-
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasselii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tasselii&theme=github_dark)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasselii&layout=compact&theme=github_dark" width="350px"> <img src="https://github-readme-stats.vercel.app/api?username=aryankarumuri&show_icons=true&locale=en&theme=github_dark&rank_icon=github" width="460px" />
+
+
+
 
