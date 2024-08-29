@@ -2,17 +2,57 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0400CD&random=false&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Thiago+Tasseli!+!)](https://git.io/typing-svg)
 
-<p align="left">
-  Desenvolvedor em fase atual de estudos em Java Back-End. Apaixonado por resolver problemas complexos e sempre em busca de aprender novas tecnologias. Busco minha primeira experiência profissional para aplicar e expandir meus conhecimentos. Dê uma olhada e explore meu trabalho!
+<h2 align="left">Sobre mim</h2>
 
-<h3 align="left">Conecte-se comigo!</h3>
+<p style="text-align: justify;">
+Estou em transição para o desenvolvimento full stack, com foco em Java, Angular e SQL. Minha experiência como técnico de telecomunicações me ensinou a resolver problemas complexos e a oferecer um excelente atendimento ao cliente, habilidades que aplico no desenvolvimento de software. Estou em busca de uma oportunidade para aplicar e expandir meus conhecimentos, colaborar em projetos inovadores e crescer como programador. Jogos competitivos são minha paixão, oferecendo desafios que aprimoram minha lógica e estratégia, fundamentais para a resolução de problemas complexos.
+</p>
+
+###
+
+<p align="left">✨ Iniciando minha jornada na tecnologia com foco em desenvolvimento de software.<br>📚 Estudando programação full stack: Java, Angular e SQL.<br>🎯 Metas: Contribuir com projetos inovadores e crescer como desenvolvedor.<br>🎲 Curiosidade: Apaixonado por jogos competitivos e desafios estratégicos.</p>
+
+###
+
+<h2 align="left">Habilidades</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+<h2 align="left">Conecte-se comigo!</h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000CD&color:FFF "target=_blank")](mailto:tasselii.dev@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF "target=_blank")](https://www.linkedin.com/in/thiago-tasseli-368590276/)
 
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasselii&layout=compact&theme=github_dark" width="350px"> <img src="https://github-readme-stats.vercel.app/api?username=aryankarumuri&show_icons=true&locale=en&theme=github_dark&rank_icon=github" width="460px" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasselii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasselii&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
