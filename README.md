@@ -5,7 +5,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p style="text-align: justify;">
-Estou em transição para o desenvolvimento full stack, com foco em Java, Angular e SQL. Minha experiência como técnico de telecomunicações me ensinou a resolver problemas complexos e a oferecer um excelente atendimento ao cliente, habilidades que aplico no desenvolvimento de software. Estou em busca de uma oportunidade para aplicar e expandir meus conhecimentos, colaborar em projetos inovadores e crescer como programador. Jogos competitivos são minha paixão, oferecendo desafios que aprimoram minha lógica e estratégia, fundamentais para a resolução de problemas complexos.
+Desenvolvedor Back-End em formação, com foco em Java, Spring e SQL. Tenho uma forte habilidade para resolver problemas complexos, desenvolvida durante minha experiência em telecomunicações, e estou aplicando isso no desenvolvimento de software. Busco uma oportunidade para iniciar minha carreira, onde posso aplicar meus conhecimentos, aprender novas tecnologias e contribuir para o desenvolvimento de soluções eficientes.
 </p>
 
 ###
