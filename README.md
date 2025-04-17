@@ -10,16 +10,12 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
 
 🚀 *Construindo soluções que conectam, escalam e fazem sentido para as pessoas.*
 
----
-
 ### 🌟 Destaques
 
 - 👨‍💻 Em transição de carreira com base sólida em tecnologia e lógica.
 - 🔧 Aprendendo e aplicando: Java, Spring Boot, SQL, React.
 - 🧱 Construtor de soluções sólidas, com base em lógica, prática e propósito.
 - 🔎 Gosto de entender como as coisas funcionam — e como melhorá-las com código.
-
----
 
 ## 🛠️ Tecnologias
 
@@ -45,14 +41,10 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
 </div>
 
----
-
 ## 📫 Conecte-se comigo
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000CD)](mailto:tasselii.dev@outlook.com.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD)](https://www.linkedin.com/in/thiagotasseli-tech)
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD)](https://www.linkedin.com/in/thiagotasseli-tech/)
 
 ## 📊 GitHub Stats
 
