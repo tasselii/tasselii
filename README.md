@@ -52,3 +52,13 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
   <img src="https://github-readme-stats.vercel.app/api?username=tasselii&show_icons=true&theme=github_dark&locale=pt-br&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasselii&layout=compact&langs_count=5&theme=github_dark&locale=pt-br" height="150" />
 </div>
+
+</br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasselii/tasselii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasselii/tasselii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tasselii/tasselii/output/pacman-contribution-graph.svg">
+</picture>
+
+###
