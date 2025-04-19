@@ -10,6 +10,7 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
 
 🚀 *Construindo soluções que conectam, escalam e fazem sentido para as pessoas.*
 
+</br>
 
 ### 📂 **Acompanhe meu progresso atual no repositório do bootcamp:**  
 
