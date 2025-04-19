@@ -17,7 +17,6 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
 #### 👉 [Repositório Bootcamp](https://github.com/tasselii/java)
 
 ---
-</br>
 
 ### 🌟 Destaques
 
