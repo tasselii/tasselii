@@ -18,6 +18,7 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
 
 ---
 </br>
+
 ### 🌟 Destaques
 
 - 👨‍💻 Em transição de carreira com base sólida em tecnologia e lógica.
