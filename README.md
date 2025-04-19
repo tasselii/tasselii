@@ -4,12 +4,20 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Back-End em formação, focado em criar soluções escaláveis com Java, Spring Boot e SQL. Minha trajetória começou em redes, resolvendo problemas técnicos complexos e garantindo infraestrutura para milhares de usuários. Hoje, canalizo essa experiência para o desenvolvimento de software, com Clean Code, SOLID e foco em APIs RESTful.
+Sou desenvolvedor Fullstack em formação, focado em criar soluções escaláveis com Java, Spring Boot e SQL. Minha trajetória começou em redes, resolvendo problemas técnicos complexos e garantindo infraestrutura para milhares de usuários. Hoje, canalizo essa experiência para o desenvolvimento de software, com Clean Code, SOLID e foco em APIs RESTful.
 
 Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Spring, React e versionamento com Git. O que me move é transformar desafios em código limpo e funcional.
 
 🚀 *Construindo soluções que conectam, escalam e fazem sentido para as pessoas.*
 
+</br>
+
+### 📂 **Acompanhe meu progresso atual no repositório do bootcamp:**  
+
+#### 👉 [Repositório Bootcamp](https://github.com/tasselii/java)
+
+---
+</br>
 ### 🌟 Destaques
 
 - 👨‍💻 Em transição de carreira com base sólida em tecnologia e lógica.
@@ -54,11 +62,3 @@ Atualmente, estou mergulhado em um bootcamp full stack Java, com práticas em Sp
 </div>
 
 </br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasselii/tasselii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasselii/tasselii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tasselii/tasselii/output/pacman-contribution-graph.svg">
-</picture>
-
-###
