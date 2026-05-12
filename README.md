@@ -4,10 +4,6 @@
 
 </br>
 
-<div align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasselii&show_icons=true&theme=github_dark&locale=pt-br&count_private=true&title_color=0500CD&icon_color=0500CD" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasselii&layout=compact&langs_count=6&theme=github_dark&locale=pt-br&title_color=0500CD" height="150" />
-</div>
 
 </br>
 
